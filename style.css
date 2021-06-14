@@ -27,10 +27,11 @@ body {
 }
 
 #bot-navbar {
-
+  text-align: center;
 }
 #bot-navbar>li{
   display:inline;
-  align-items: center;
-  align-self: center;
+}
+#search-box{
+  text-align: center;
 }
