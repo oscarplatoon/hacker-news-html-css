@@ -1,0 +1,16 @@
+body {
+  margin: 10,90,10,90
+}
+#top-navbar {
+  background-color: #ff6600;
+  list-style-type:none;
+  margin: 0;
+  padding: 5px 10px 5px 10px
+}
+#top-navbar>li {
+  text-align: center;
+  display: inline;
+}
+#login {
+  float: right;
+}
