@@ -1,16 +1,36 @@
 body {
-  margin: 10,90,10,90
+  margin: 10,90,10,90;
+  color: #828282;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #top-navbar {
   background-color: #ff6600;
+  color: black;
   list-style-type:none;
   margin: 0;
-  padding: 5px 10px 5px 10px
+  padding: 3px 3px 3px 2px;
+  font-size: small;
 }
 #top-navbar>li {
-  text-align: center;
   display: inline;
 }
 #login {
   float: right;
+}
+#title {
+  font-weight: bold;
+}
+#bordered-img {
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+}
+
+#bot-navbar {
+
+}
+#bot-navbar>li{
+  display:inline;
+  align-items: center;
+  align-self: center;
 }
