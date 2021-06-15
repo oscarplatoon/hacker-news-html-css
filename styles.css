@@ -1,0 +1,49 @@
+#top-navbar {
+  background-color: #ff6600;
+  list-style-type: none;
+  margin: 0;
+  padding: 5px 10px 5px 10px;
+}
+#top-navbar>li {
+  display: inline;
+}
+
+.info {
+  color: grey;
+  font-size: small;
+}
+hr {
+  background-color: #ff6600;
+}
+
+#main-content {
+  background-color: #f6f6ef;
+}
+body {
+  margin: 10px 90px 10px 90px;
+}
+
+#botton {
+  list-style: None;
+  margin: 10;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+}
+#bottom>li {
+  display: inline;
+}
+#logo {
+  border: 1px solid #fff;
+  height: 18px;
+  width: 18px;
+
+}
+
+#name {
+  color: black;
+  font-size: 18px;
+}
+
+#login {
+ float: right;
+}
