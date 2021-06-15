@@ -1,0 +1,32 @@
+* {
+  font-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+.title {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FC4F05;
+  font-size: small;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 4px;
+  text-decoration: none;
+}
+
+login {
+  float: right;
+}
