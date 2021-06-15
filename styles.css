@@ -1,0 +1,79 @@
+body {
+  margin: 10px 40px 10px 40px;
+}
+
+#main-background {
+  background-color: #f8f8ea;
+}
+
+#header-bar {
+  background-color: #ff6600;
+  list-style-type: none;
+  margin: 0;
+  padding: 1px 1px 1px 1px;
+}
+
+#header-bar>li {
+  display: inline;
+}
+
+#footer-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+  font-size: smaller;
+}
+
+#footer-bar>li {
+  display: inline;
+}
+
+#posts {
+  margin: 0px;
+  padding: 10px 30px 5px;
+}
+
+#posts>li {
+  padding: 0px 0px 10px 0px;
+}
+
+
+#search {
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+}
+
+.subtext {
+  color: grey;
+  font-size: small;
+} 
+
+#more {
+  padding-left: 30px;
+}
+
+#brand-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.votearrow {
+  width: 10px;
+  height: 10px;
+  border: 0px;
+  margin: 1px 2px 1px;
+}
+
+#login {
+  float: right;
+  margin-top: 8px;
+}
+
+#logo {
+  border: solid white 1px;
+  vertical-align: inherit;
+  margin: 4px 2px 0px;
+}
+
+
